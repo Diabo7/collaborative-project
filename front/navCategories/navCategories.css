@@ -1,0 +1,25 @@
+main {
+    display: flex;
+    flex-direction: column;
+    /* gap: 100px; */
+}
+
+main > div {
+    height: 150px;
+    width: 90%;
+    border: 1px solid white;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+td{
+    border: 1px solid wheat;
+}
+
+img{
+    height: 140px;
+}
+
+p{
+    padding: 1%;
+}
